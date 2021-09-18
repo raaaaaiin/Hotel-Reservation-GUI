@@ -1,0 +1,15 @@
+c:\users\reyn\documents\visual studio 2010\Projects\Hotel reservation\Hotel reservation\bin\Debug\Hotel reservation.exe
+c:\users\reyn\documents\visual studio 2010\Projects\Hotel reservation\Hotel reservation\bin\Debug\Hotel reservation.pdb
+c:\users\reyn\documents\visual studio 2010\Projects\Hotel reservation\Hotel reservation\bin\Debug\Hotel reservation.xml
+c:\users\reyn\documents\visual studio 2010\Projects\Hotel reservation\Hotel reservation\obj\x86\Debug\Hotel_reservation.Form1.resources
+c:\users\reyn\documents\visual studio 2010\Projects\Hotel reservation\Hotel reservation\obj\x86\Debug\Hotel_reservation.Resources.resources
+c:\users\reyn\documents\visual studio 2010\Projects\Hotel reservation\Hotel reservation\obj\x86\Debug\Hotel reservation.vbproj.GenerateResource.Cache
+c:\users\reyn\documents\visual studio 2010\Projects\Hotel reservation\Hotel reservation\obj\x86\Debug\Hotel reservation.exe
+c:\users\reyn\documents\visual studio 2010\Projects\Hotel reservation\Hotel reservation\obj\x86\Debug\Hotel reservation.xml
+c:\users\reyn\documents\visual studio 2010\Projects\Hotel reservation\Hotel reservation\obj\x86\Debug\Hotel reservation.pdb
+C:\Users\Reyn\Documents\Visual Studio 2010\Projects\Hotel reservation\Hotel reservation\obj\x86\Debug\Hotel_reservation.Form2.resources
+C:\Users\Reyn\Documents\Visual Studio 2010\Projects\Hotel reservation\Hotel reservation\obj\x86\Debug\Hotel_reservation.Booking.resources
+C:\Users\Reyn\Documents\Visual Studio 2010\Projects\Hotel reservation\Hotel reservation\obj\x86\Debug\Hotel_reservation.Dashboard.resources
+C:\Users\Reyn\Documents\Visual Studio 2010\Projects\Hotel reservation\Hotel reservation\obj\x86\Debug\Hotel_reservation.Guest.resources
+C:\Users\Reyn\Documents\Visual Studio 2010\Projects\Hotel reservation\Hotel reservation\obj\x86\Debug\Hotel_reservation.Form3.resources
+C:\Users\Reyn\Documents\Visual Studio 2010\Projects\Hotel reservation\Hotel reservation\obj\x86\Debug\Hotel_reservation.reservation.resources
